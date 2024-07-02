@@ -10,11 +10,11 @@ public final class App {
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
-        System.out.print("Your weight in Kg: "); //using comma
+
+        System.out.print("Your weight in Kg: "); //using comma!!!
         double weight = scanner.nextDouble();
 
-        System.out.print("Your height in meters: "); //using comma
+        System.out.print("Your height in meters: "); //using comma!!!
         double height = scanner.nextDouble();
 
         // double peso = 46; 
